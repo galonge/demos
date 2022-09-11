@@ -5,3 +5,7 @@ variable "project_id" {
 variable "region" {
   description = "region"
 }
+
+variable "resource_prefix" {
+  description = "resource prefix"
+}
